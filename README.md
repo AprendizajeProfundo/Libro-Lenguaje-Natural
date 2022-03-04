@@ -32,7 +32,7 @@
 - [Chatbot con TensorFlow 2.X]()
 
 ## HuggingFace
-- Introducción a HuggingFace.  
+- Introducción a HuggingFace()  
 - [Introducción al modelo Bert]()
 - [Entubamiento (pipeline) ]()
 - [PLN por dentro del entubamiento]()
